@@ -1,0 +1,90 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.form div {
+  position: relative;
+}
+
+.form div:before,
+.form div:after {
+  content: "⭐";
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+}
+.form div:after {
+  left: 10px;
+  top: 10px;
+}
+
+.noResults {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.noResults button {
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.loading {
+  font-size: 2rem;
+  text-align: center;
+  display: block;
+}
+
+.form .starBounce:before {
+  animation: 500ms linear goRight,
+     500ms cubic-bezier(0,5,1,5) upAndDown,
+     500ms linear fadeout;
+  animation-delay: 50ms;
+}
+
+.form .starBounce:after {
+  animation: 500ms linear goLeft,
+    500ms cubic-bezier(0,5,1,5) upAndDown,
+    500ms linear fadeout;
+}
+
+@keyframes fadeout {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes goRight {
+  to {
+    transform: translateX(15px);
+  }
+}
+
+@keyframes goLeft {
+  to {
+    transform: translateX(-15px);
+  }
+}
+
+@keyframes upAndDown {
+  to {
+    transform: translateY(-10px);
+  }
+}
+
+@media screen and (max-width: 975px) {
+  .title {
+    text-align: center;
+  }
+  .form {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}

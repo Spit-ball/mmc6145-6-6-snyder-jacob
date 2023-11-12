@@ -1,0 +1,677 @@
+[
+    {
+        "title": "Conan",
+        "subtitle": "Book of Thoth",
+        "authors": [
+            "Kurt Busiek",
+            "Len Wein",
+            "Kelley Jones"
+        ],
+        "publishedDate": "2006",
+        "description": "Writer-artist-editor (and all-around comics visionary) Harvey Kurtzman teamed up with legendary artists Wally Wood, Johnny Craig, Jack Davis, Al Feldstein, John Severin, Will Elder, and Dave Berg to create these powerful stories of struggle and humanity that are considered to be among the best war stories ever told. Reprints six complete issues (24 stories), #7-12.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1593076487"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781593076481"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+            "Comics & Graphic Novels"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=P1Z8AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=P1Z8AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=P1Z8AAAACAAJ&dq=conan&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=P1Z8AAAACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan.html?hl=&id=P1Z8AAAACAAJ",
+        "googleId": "P1Z8AAAACAAJ",
+        "thumbnail": "http://books.google.com/books/content?id=P1Z8AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Conan The Barbarian Vol. 1",
+        "subtitle": "The Life And Death Of Conan Book One",
+        "authors": [
+            "Jason Aaron"
+        ],
+        "publisher": "Marvel Entertainment",
+        "publishedDate": "2019-07-03",
+        "description": "Collects Conan the Barbarian (2019) #1-6. The greatest sword-and-sorcery hero of all returns to Marvel! From an age undreamed…hither came Conan the Cimmerian, black-haired, sullen-eyed, sword in hand, a thief, a reaver, a slayer, with gigantic melancholies and gigantic mirth, to tread the jeweled thrones of the Earth under his sandaled feet. Conan’s travels have brought him to the far reaches of the unknown, from his birthplace in Cimmeria to the kingdom of Aquilonia and all in between. But as his fighting prowess lets him carve his way through life, so too does it attract the forces of death! And few are more deadly than the Crimson Witch. Robert E. Howard’s legendary barbarian stars in an all-new ages-spanning saga as the destiny of Conan — and King Conan — are forever changed!",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781302514983"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1302514989"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=RP2dDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=RP2dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RP2dDwAAQBAJ&printsec=frontcover&dq=conan&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RP2dDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RP2dDwAAQBAJ",
+        "seriesInfo": {
+            "kind": "books#volume_series_info",
+            "shortSeriesBookTitle": "Conan The Barbarian Vol. 1",
+            "bookDisplayNumber": "1",
+            "volumeSeries": [
+                {
+                    "seriesId": "eDwqGwAAABBTJM",
+                    "seriesBookType": "COLLECTED_EDITION",
+                    "orderNumber": 1,
+                    "issue": [
+                        {
+                            "issueDisplayNumber": "1"
+                        },
+                        {
+                            "issueDisplayNumber": "2"
+                        },
+                        {
+                            "issueOrderNumber": 1,
+                            "issueDisplayNumber": "3"
+                        },
+                        {
+                            "issueOrderNumber": 2,
+                            "issueDisplayNumber": "4"
+                        },
+                        {
+                            "issueOrderNumber": 3,
+                            "issueDisplayNumber": "5"
+                        },
+                        {
+                            "issueDisplayNumber": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "googleId": "RP2dDwAAQBAJ",
+        "thumbnail": "http://books.google.com/books/content?id=RP2dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan the Barbarian Vol. 2",
+        "subtitle": "The Life and Death of Conan Book Two",
+        "publisher": "Marvel",
+        "publishedDate": "2020-03-31",
+        "description": "The many loves of Conan! Beyond his lusts for ale, battle and gold, there have been many women who have captured the Barbarian's heart over the years. But nothing is sacred when the Crimson Witch strikes - and twists what is truly best in life! Then, Conan returns home to Cimmeria! But things aren't exactly as he remembers them... Is he that out of touch - or is he falling right into the trap of the wizard Thoth-Amon?! \"The Life and Death of Conan\" continues! COLLECTING: CONAN THE BARBARIAN 7-12",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1302915037"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781302915032"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+            "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HT3_xwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HT3_xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HT3_xwEACAAJ&dq=conan&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HT3_xwEACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_the_Barbarian_Vol_2.html?hl=&id=HT3_xwEACAAJ",
+        "googleId": "HT3_xwEACAAJ",
+        "thumbnail": "http://books.google.com/books/content?id=HT3_xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "The Conquering Sword of Conan",
+        "authors": [
+            "Robert E. Howard"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2005-11-29",
+        "description": "“For headling, nonstop adventure and for vivid, even florid, scenery, no one even comes close to Howard.”—Harry Turtledove In a meteoric career that covered only a dozen years, Robert E. Howard defined the sword-and-sorcery genre. In doing so, he brought to life the archetypal adventurer known to millions around the world as Conan the barbarian. Witness, then, Howard at his finest, and Conan at his most savage, in the latest volume featuring the collected works of Robert E. Howard, lavishly illustrated by award-winning artist Greg Manchess. Prepared directly from the earliest known versions—often Howard’s own manuscripts—are such sword-and-sorcery classics as “The Servants of Bit-Yakin” (formerly published as “Jewels of Gwahlur”), “Beyond the Black River,” “The Black Stranger,” “Man-Eaters of Zamboula” (formerly published as “Shadows in Zamboula”), and, perhaps his most famous adventure of all, “Red Nails.” The Conquering Sword of Conan includes never-before-published outlines, notes, and story drafts, plus a new introduction, personal correspondence, and the revealing essay “Hyborian Genesis”—which chronicles the history of the creation of the Conan series. Truly, this is heroic fantasy at its finest.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780345486059"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0345486056"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=L3ugmkQl1AUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=L3ugmkQl1AUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=L3ugmkQl1AUC&printsec=frontcover&dq=conan&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=L3ugmkQl1AUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L3ugmkQl1AUC",
+        "googleId": "L3ugmkQl1AUC",
+        "thumbnail": "http://books.google.com/books/content?id=L3ugmkQl1AUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan - Book of Skelos",
+        "authors": [
+            "Modiphius Entertainment"
+        ],
+        "publisher": "Modiphius Entertainment",
+        "publishedDate": "2018-10",
+        "description": "READ, IF YOU DARE, WHAT SKELOS WROTE, WITH DEAD HANDS FUMBLING HIS SILKEN COAT; AND FOLLOW THE SHIPS THROUGH THE WIND-BLOWN WRACK FOLLOW THE SHIPS THAT COME NOT BACK.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1912200031"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781912200030"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+            "Games & Activities"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=oLfbvAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=oLfbvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oLfbvAEACAAJ&dq=conan&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oLfbvAEACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_Book_of_Skelos.html?hl=&id=oLfbvAEACAAJ",
+        "googleId": "oLfbvAEACAAJ",
+        "thumbnail": "http://books.google.com/books/content?id=oLfbvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "The Bloody Crown of Conan",
+        "authors": [
+            "Robert E. Howard"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2004-11-23",
+        "description": "In his hugely influential and tempestuous career, Robert E. Howard created the genre that came to be known as sword and sorcery—and brought to life one of fantasy’s boldest and most enduring figures: Conan the Cimmerian—reaver, slayer, barbarian, king. “Stories such as ‘The People of the Black Circle’ glow with the fierce and eldritch light of [Howard’s] frenzied intensity.”—Stephen King This lavishly illustrated volume gathers together three of Howard’s longest and most famous Conan stories–two of them printed for the first time directly from Howard’ s typescript–along with a collection of the author’s previously unpublished and rarely seen outlines, notes, and drafts. Longtime fans and new readers alike will agree that The Bloody Crown of Conan merits a place of honor on every fantasy lover’s bookshelf. THE PEOPLE OF THE BLACK CIRCLE Amid the towering crags of Vendhya, in the shadowy citadel of the Black Circle, Yasmina of the golden throne seeks vengeance against the Black Seers. Her only ally is also her most formidable enemy–Conan, the outlaw chief. THE HOUR OF THE DRAGON Toppled from the throne of Aquilonia by the evil machinations of an undead wizard, Conan must find the fabled jewel known as the Heart of Ahriman to reclaim his crown . . . and save his life. A WITCH SHALL BE BORN A malevolent witch of evil beauty. An enslaved queen. A kingdom in the iron grip of ruthless mercenaries. And Conan, who plots deadly vengeance against the human wolf who left him in the desert to die.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780345480781"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0345480783"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.7.5.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nqYbFM5HclcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nqYbFM5HclcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nqYbFM5HclcC&printsec=frontcover&dq=conan&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nqYbFM5HclcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nqYbFM5HclcC",
+        "googleId": "nqYbFM5HclcC",
+        "thumbnail": "http://books.google.com/books/content?id=nqYbFM5HclcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan the Destroyer",
+        "authors": [
+            "Robert E. Howard"
+        ],
+        "publisher": "Gollancz",
+        "publishedDate": "2011",
+        "description": "Conan the Barbarian is one of the most famed figures in fantasy fiction. With the success of the new film starring Jason Momoa and Ron Perlman, the time is right to revisit Robert E. Howard's classic stories. Presented in chronological order over three books, all of Conan's life is here, from his wild adventures as a youth to the final tale of Conan the King. Howard's tales of the wanderer, the reaver, the thief, the Barbarian have never been surpassed. In this volume Conan learns the secrets of THE TOWER OF THE ELEPHANT and the ROGUES IN THE HOUSE, meets THE FROST-GIANT'S DAUGHTER and the QUEEN OF THE BLACK COAST and visits THE VALE OF LOST WOMEN and THE BLACK COLOSSUS. A selection of other tales and fragments round out this new collection of a classic character.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0575115009"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780575115002"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+            "Conan (Fictitious character)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xpSUZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xpSUZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xpSUZwEACAAJ&dq=conan&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xpSUZwEACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_the_Destroyer.html?hl=&id=xpSUZwEACAAJ",
+        "googleId": "xpSUZwEACAAJ",
+        "thumbnail": "http://books.google.com/books/content?id=xpSUZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Conan The Invincible",
+        "authors": [
+            "Robert Jordan"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2011-04-01",
+        "description": "\"Numerous authors have penned Conan yarns down the years--none with more consistency or better technique than Jordan.\"--Kirkus Reviews Conan is ensnared by the charms of the wily and beautiful Karela, who is secretly the Red Hawk, fearless leader of a crew of brigands. She leads Conan to face the awesome challenge of the serpentinely evil necromancer Amanar. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781429933094"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1429933097"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.6.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WRH_sUqYgtEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WRH_sUqYgtEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WRH_sUqYgtEC&printsec=frontcover&dq=conan&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WRH_sUqYgtEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WRH_sUqYgtEC",
+        "googleId": "WRH_sUqYgtEC",
+        "thumbnail": "http://books.google.com/books/content?id=WRH_sUqYgtEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan: The Book of Thoth and Other Stories",
+        "publisher": "Marvel",
+        "publishedDate": "2020-04-14",
+        "description": "The horrifying origin of Conan the Barbarian's greatest adversary - the dreaded sorcerer Thoth-Amon! In the dank alleys of a decaying city, one beggar boy conjures visions of a future where the rich cower in fear of his terrible power! Witness Thoth-Amon's rise from the squalor of the streets through the priestly ranks of Ibis to the heights of evil! Plus, a look back into the past of the Barbarian! As warlord Khalar Zym sets out on a quest to find the mythical Mask of Acheron - an ancient artifact that will bring his beloved back to life - he thinks nothing of destroying a village in northern Cimmeria. But one boy born of battle survives Zym's attack - and years later, their paths are destined to cross once more! COLLECTING: CONAN: BOOK OF THOTH (2006) 1-4, CONAN THE BARBARIAN: THE MASK OF ACHERON (2011) 1",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1302922823"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781302922825"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+            "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=kltkyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=kltkyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=kltkyAEACAAJ&dq=conan&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=kltkyAEACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_The_Book_of_Thoth_and_Other_Storie.html?hl=&id=kltkyAEACAAJ",
+        "googleId": "kltkyAEACAAJ",
+        "thumbnail": "http://books.google.com/books/content?id=kltkyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Age of Conan: Valeria",
+        "publisher": "Marvel",
+        "publishedDate": "2020-02-25",
+        "description": "An all-new quest for Robert E. Howard's Valeria, as she seeks truth -and revenge! Journey into the Hyborian Age with the hero from the classic Conan story \"Red Nails,\" in a story set before that fan-favorite tale! Before she became a pirate and mercenary -before she crossed paths with Conan and the Red Brotherhood -Valeria was a young woman from Aquilonia seeking justice for a crime gone unpunished. But as she makes her way in the cruel Hyborian world, proving herself against those who doubt her abilities, she will find more than she bargained for in her thirst for vengeance! Valeria's deadly fighting skills will be put to the test and her trust will be shaken as she hunts her brother's killer and comes into her own as a force to be reckoned with! COLLECTING: AGE OF CONAN: VALERIA 1-5",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "130291880X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781302918804"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+            "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=accHyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=accHyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=accHyAEACAAJ&dq=conan&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=accHyAEACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Age_of_Conan_Valeria.html?hl=&id=accHyAEACAAJ",
+        "googleId": "accHyAEACAAJ",
+        "thumbnail": "http://books.google.com/books/content?id=accHyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "title": "Conan Meets the Academy",
+        "subtitle": "Multidisciplinary Essays on the Enduring Barbarian",
+        "authors": [
+            "Jonas Prida"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2012-11-20",
+        "description": "Robert E. Howard penned a series of fantasy stories in 1932 featuring Conan, a hulking warrior from \"Cimmeria\" who roamed the mythical Hyborian Age landscape engaging in heroic adventures. More than the quirky manifestation of Depression-era magazines, Conan the Barbarian has endured as a cultural mainstay for over 70 years. This multidisciplinary collection offers the first scholarly investigation of Conan, from Howard's early stories, through midcentury novels and Arnold Schwarzenegger's iconic films, to the 2011 cinematic remake of Conan the Barbarian. Drawing on disciplines such as stylometry, archeology, cultural and folklore studies and literary history, the essays examine statistical analyses of the words in Conan texts, the literary genesis of Conan, later-day parodies, Conan video games, and much more. This volume reveals the hidden scholarly depth of this seemingly unsophisticated fictional character.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780786461523"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0786461527"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+            "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UXpJc2ewP24C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UXpJc2ewP24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UXpJc2ewP24C&pg=PA6&dq=conan&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UXpJc2ewP24C&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_Meets_the_Academy.html?hl=&id=UXpJc2ewP24C",
+        "googleId": "UXpJc2ewP24C",
+        "thumbnail": "http://books.google.com/books/content?id=UXpJc2ewP24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan the Barbarian",
+        "subtitle": "The stories that inspired the movie",
+        "authors": [
+            "Robert E. Howard"
+        ],
+        "publisher": "Del Rey",
+        "publishedDate": "2011-07-26",
+        "description": "THE CLASSIC STORIES THAT INSPIRED THE BLOCKBUSTER FILM Conan the Barbarian is one of the greatest fictional heroes ever created—a swordsman who cuts a swath across the lands of the Hyborian Age, annihilating powerful sorcerers, deadly creatures, and whole armies of ruthless foes. Today his name is synonymous with the epic battles of ancient times, but Conan originated in the early decades of the twentieth century with one of the founding fathers of fantasy, the visionary Robert E. Howard. The unforgettable stories collected here form a thrilling adventure, following Conan from his mercenary youth to his bloody conquests on the frontier and even the high seas. Bold and enduring, the legend of Conan the Barbarian continues to grow in popularity and influence.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9780345531247"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "0345531248"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.1.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=iYyANHexwlsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=iYyANHexwlsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iYyANHexwlsC&pg=PA49&dq=conan&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iYyANHexwlsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iYyANHexwlsC",
+        "googleId": "iYyANHexwlsC",
+        "thumbnail": "http://books.google.com/books/content?id=iYyANHexwlsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan and the Spider God",
+        "authors": [
+            "L. Sprague de Camp"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2003-06-16",
+        "description": "Conan is back, and at the top of his form! SFWA Grand Master L. Sprague de Camp was revered in the genre of fantasy for both his fiction and nonfiction. Booklist praised his novel The Honorable Barbarian, saying: \"The action is brisk, and the worlds and characters are described with de Camp's deft, light touch . . . thoroughly agreeable entertainment,\" while Kirkus Reviews said of The Pixilated Peeress \"the unassuming style and verve of the telling keep the pages turning. Pure prose junk-food.\" But more important, L. Sprague de Camp wrote Dark Valley Destiny, the definitive biography of Conan's creator, Robert E. Howard, leaving little wonder as to why Conan and the Spider God is considered one of the finest novels in the canon of Conan. Son of a blacksmith, a former slave and thief, Conan the Cimmerian has risen to the rank of Captain of the Royal Guard. But as usual, trouble is his bedfellow. Forced to kill while defending himself, Conan must flee the vengeance of the High Priest of Erlik. Foraging through field and forest, meeting friend and foe, Conan cuts a bloody swath through assassins and bounty hunters all the way to the sinister temple of Zath, where he encounters the huge and hideous Spider God. Facing certain death, Conan becomes both the hunter . . . and the hunted. Conan and the Spider God is a thrilling adventure of the mighty barbarian, from one of the genre's most revered authors. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781429972727"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1429972726"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.7.0.preview.2",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lauSPr5QnP4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lauSPr5QnP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lauSPr5QnP4C&pg=PT26&dq=conan&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lauSPr5QnP4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lauSPr5QnP4C",
+        "googleId": "lauSPr5QnP4C",
+        "thumbnail": "http://books.google.com/books/content?id=lauSPr5QnP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "title": "Conan: The Daughters of Midora and Other Stories",
+        "authors": [
+            "Jimmy Palmiotti"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2012-08-28",
+        "description": "In addition to a brand-new story by Michael Avon Oeming (Rapture, Powers), this volume sees Jimmy Palmiotti (Jonah Hex) and Mark Texeira (Ghost Rider) introduce readers to the daughters of Midora, Ron Marz (Green Lantern) and Bart Sears (The Helm) visit the Island of No Return, and Tim Truman (King Conan: The Scarlet Citadel) and Marian Churchland (Elephantmen) provide a breathtaking yarn of their own! A must-buy for any Conan fan! Collects Conan and the Daughters of Midora, Conan: Island of No Return #1–#2, and stories from MySpace Dark Horse Presents #11 and USA Today.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781621155065"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1621155064"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 127,
+        "printType": "BOOK",
+        "categories": [
+            "Comics & Graphic Novels"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "f6254bddd9cf549c_A",
+            "imageBubbleVersion": "f6254bddd9cf549c_A"
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3uybykPGOZYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3uybykPGOZYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3uybykPGOZYC&printsec=frontcover&dq=conan&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3uybykPGOZYC&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_The_Daughters_of_Midora_and_Other.html?hl=&id=3uybykPGOZYC",
+        "googleId": "3uybykPGOZYC",
+        "thumbnail": "http://books.google.com/books/content?id=3uybykPGOZYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+]

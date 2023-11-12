@@ -1,0 +1,42 @@
+{
+  "name": "booker",
+  "version": "0.1.0",
+  "private": true,
+  "config": {
+    "DB_NAME": "mongo_project_db"
+  },
+  "scripts": {
+    "dev": "npm run mongo && next dev",
+    "test": "vitest",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "mongo": "npm run mongo:restart && npm run mongo:check",
+    "mongo:restart": "npm run mongo:stop; npm run mongo:start",
+    "mongo:start": "docker run --rm -d -p 27017:27017 --name=mongo-sandbox -e MONGO_INITDB_DATABASE=$npm_package_config_DB_NAME mongo:5",
+    "mongo:start:shell": "npm run mongo && npm run mongo:shell",
+    "mongo:stop": "docker container stop mongo-sandbox",
+    "mongo:shell": "docker exec -it mongo-sandbox mongosh",
+    "mongo:check": "until docker exec mongo-sandbox mongosh --eval \"use $npm_package_config_DB_NAME;\"; do echo ...; sleep 1; done"
+  },
+  "dependencies": {
+    "@next/font": "13.0.3",
+    "bcrypt": "^5.1.0",
+    "iron-session": "^6.3.1",
+    "mongoose": "^6.4.0",
+    "next": "13.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@vitejs/plugin-react": "^2.2.0",
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.0",
+    "jsdom": "^20.0.2",
+    "msw": "^1.3.1",
+    "node-mocks-http": "^1.12.1",
+    "vitest": "^0.25.2"
+  }
+}

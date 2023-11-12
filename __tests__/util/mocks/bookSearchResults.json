@@ -1,0 +1,750 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2636,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gZ8GCwAAQBAJ",
+      "etag": "mXonp3/nsMc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gZ8GCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Conan the Barbarian",
+        "authors": [
+          "Robert E Howard"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2015-11-13",
+        "description": "Conan the Barbarian by Robert E Howard Conan the Barbarian - Warrior, Hero, Legend. Conan - Black-haired, sullen-eyed, sword in hand, a thief, a reaver, a slayer... Discover how it all began. Conan the Barbarian spawned a hundred imitators. Find out why with these tales from his life. From the Tower of the Elephant to Beyond the Black River, follow Robert E. Howard's greatest creation as he cuts a bloody swathe through the history of Hyborea. Over 720 pages of epic action! All the original stories. \"A hero of mythic proportion, fashioned by a storyteller who helped define what a modern fantasy should be\" - Raymond E. Feist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781329687509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1329687507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 725,
+        "printType": "BOOK",
+        "categories": [
+          "Heroes"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gZ8GCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gZ8GCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gZ8GCwAAQBAJ&printsec=frontcover&dq=conan&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gZ8GCwAAQBAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_the_Barbarian.html?hl=&id=gZ8GCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Conan_the_Barbarian-sample-pdf.acsm?id=gZ8GCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gZ8GCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conan - Black-haired, sullen-eyed, sword in hand, a thief, a reaver, a slayer... Discover how it all began. Conan the Barbarian spawned a hundred imitators. Find out why with these tales from his life."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cX0qAAAAYAAJ",
+      "etag": "OLYxzTxfi+g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cX0qAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Conan Volume 1: The Frost Giant's Daughter and Other Stories",
+        "authors": [
+          "Kurt Busiek",
+          "Cary Nord",
+          "Tim Truman",
+          "Thomas Yeates"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2005",
+        "description": "New Conan stories from comics legend Brian Wood, continuing the legend begun by Robert E. Howard for a new generation.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X030338224"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cX0qAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cX0qAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=cX0qAAAAYAAJ&q=conan&dq=conan&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=cX0qAAAAYAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_Volume_1_The_Frost_Giant_s_Daughte.html?hl=&id=cX0qAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cX0qAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New Conan stories from comics legend Brian Wood, continuing the legend begun by Robert E. Howard for a new generation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zeuCQCSMGmQC",
+      "etag": "thvfxZ0iRgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zeuCQCSMGmQC",
+      "volumeInfo": {
+        "title": "The Further Chronicles of Conan",
+        "authors": [
+          "Robert Jordan"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2004-10",
+        "description": "A single-volume edition of three classic Conan the Barbarian tales includes Conan the Magnificent, in which Conan is caught between rival armies; Conan the Triumphant, in which he enters the service of a demon's high priestess; and Conan the Victorious, in which he confronts an ancient tomb's demon guardians. 35,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765303019"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765303011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zeuCQCSMGmQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zeuCQCSMGmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zeuCQCSMGmQC&printsec=frontcover&dq=conan&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zeuCQCSMGmQC&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Further_Chronicles_of_Conan.html?hl=&id=zeuCQCSMGmQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zeuCQCSMGmQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A single-volume edition of three classic Conan the Barbarian tales includes Conan the Magnificent, in which Conan is caught between rival armies; Conan the Triumphant, in which he enters the service of a demon&#39;s high priestess; and Conan ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zhOC-7CG7cQC",
+      "etag": "RH5wHsFXlfE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zhOC-7CG7cQC",
+      "volumeInfo": {
+        "title": "The Conan Chronicles",
+        "authors": [
+          "Robert Jordan"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2006-12-26",
+        "description": "Three fantasy sagas--Conan the Invincible, Conan the Defender, and Conan the Unconquered--featuring the world-famous barbarian warrior are presented in their entirety in a deluxe, omnibus edition. Reprint. 40,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0765302888"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780765302885"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 516,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zhOC-7CG7cQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zhOC-7CG7cQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=zhOC-7CG7cQC&printsec=frontcover&dq=conan&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=zhOC-7CG7cQC&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Conan_Chronicles.html?hl=&id=zhOC-7CG7cQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zhOC-7CG7cQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Three fantasy sagas--Conan the Invincible, Conan the Defender, and Conan the Unconquered--featuring the world-famous barbarian warrior are presented in their entirety in a deluxe, omnibus edition. Reprint. 40,000 first printing."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MguNEAAAQBAJ",
+      "etag": "I5H+9rtPl00",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MguNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Coming of Conan the Cimmerian",
+        "subtitle": "Book One",
+        "authors": [
+          "Robert E. Howard"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2003-12-02",
+        "description": "Conan is one of the greatest fictional heroes ever created– a swordsman who cuts a swath across the lands of the Hyborian Age, facing powerful sorcerers, deadly creatures, and ruthless armies of thieves and reavers. “Between the years when the oceans drank Atlantis and the gleaming cities . . . there was an Age undreamed of, when shining kingdoms lay spread across the world like blue mantles beneath the stars. . . . Hither came Conan, the Cimmerian, black-haired, sullen-eyed, sword in hand . . . to tread the jeweled thrones of the Earth under his sandalled feet.” In a meteoric career that spanned a mere twelve years before his tragic suicide, Robert E. Howard single-handedly invented the genre that came to be called sword and sorcery. Collected in this volume, profusely illustrated by artist Mark Schultz, are Howard’s first thirteen Conan stories, appearing in their original versions–in some cases for the first time in more than seventy years–and in the order Howard wrote them. Along with classics of dark fantasy like “The Tower of the Elephant” and swashbuckling adventure like “Queen of the Black Coast,” The Coming of Conan the Cimmerian contains a wealth of material never before published in the United States, including the first submitted draft of Conan’s debut, “Phoenix on the Sword,” Howard’s synopses for “The Scarlet Citadel” and “Black Colossus,” and a map of Conan’s world drawn by the author himself. Here are timeless tales featuring Conan the raw and dangerous youth, Conan the daring thief, Conan the swashbuckling pirate, and Conan the commander of armies. Here, too, is an unparalleled glimpse into the mind of a genius whose bold storytelling style has been imitated by many, yet equaled by none.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345461513"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345461517"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MguNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MguNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MguNEAAAQBAJ&dq=conan&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=MguNEAAAQBAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Coming_of_Conan_the_Cimmerian.html?hl=&id=MguNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MguNEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collected in this volume, profusely illustrated by artist Mark Schultz, are Howard’s first thirteen Conan stories, appearing in their original versions–in some cases for the first time in more than seventy years–and in the order ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tZ34GwAACAAJ",
+      "etag": "qSu0G76OTlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tZ34GwAACAAJ",
+      "volumeInfo": {
+        "title": "The Complete Chronicles of Conan",
+        "authors": [
+          "Robert Ervin Howard",
+          "Stephen Jones"
+        ],
+        "publisher": "Victor Gollancz",
+        "publishedDate": "2006-01",
+        "description": "Conan the Cimmerian: the boy-thief who became a mercenary, who fought and loved his way across fabled lands to become King of Aquilonia. Neither supernatural fiends nore demonic sorcery could oppose the barbarian warrior as he wielded his mighty sword and dispatched his enemies to a bloody doom on the battlefields of the legendary Hyborian age. Collected together in one volume for the very first time, in chronological order, are Robert E. Howard's tales of the legendary hero, as fresh and atmospheric today as when they were first published in the pulp magazines of more than seventy years ago. Compiled by and with a foreward and afterword by award-winning writer and editor Stephen Jones",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0575077662"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780575077669"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 925,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tZ34GwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tZ34GwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tZ34GwAACAAJ&dq=conan&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tZ34GwAACAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Chronicles_of_Conan.html?hl=&id=tZ34GwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tZ34GwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Collected together in one volume for the very first time, in chronological order, are Robert E. Howard&#39;s tales of the legendary hero, as fresh and atmospheric today as when they were first published in the pulp magazines of more than ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "52PN3PwnvuIC",
+      "etag": "3s1XN0D26DU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/52PN3PwnvuIC",
+      "volumeInfo": {
+        "title": "On Conan Doyle",
+        "subtitle": "Or, The Whole Art of Storytelling",
+        "authors": [
+          "Michael Dirda"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2012",
+        "description": "Presents a critical analysis of the works of the British author, including his mysteries about Sherlock Holmes and his lesser-known short stories and novels.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691151359"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0691151350"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=52PN3PwnvuIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=52PN3PwnvuIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=52PN3PwnvuIC&printsec=frontcover&dq=conan&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=52PN3PwnvuIC&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/On_Conan_Doyle.html?hl=&id=52PN3PwnvuIC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/On_Conan_Doyle-sample-epub.acsm?id=52PN3PwnvuIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/On_Conan_Doyle-sample-pdf.acsm?id=52PN3PwnvuIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=52PN3PwnvuIC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents a critical analysis of the works of the British author, including his mysteries about Sherlock Holmes and his lesser-known short stories and novels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x4YrAAAAYAAJ",
+      "etag": "GEGF194gr20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x4YrAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Conquering Sword of Conan",
+        "authors": [
+          "Robert E. Howard"
+        ],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2005-11-29",
+        "description": "The final volume in a three-volume series containing the complete adventures of the legendary warrior Conan includes \"Beyond the Black River,\" \"Red Nails,\" and other action-packed tales of action, adventure, and sorcery. Original. 20,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X004995082"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 420,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x4YrAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x4YrAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=x4YrAAAAYAAJ&q=conan&dq=conan&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=x4YrAAAAYAAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Conquering_Sword_of_Conan.html?hl=&id=x4YrAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x4YrAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The final volume in a three-volume series containing the complete adventures of the legendary warrior Conan includes &quot;Beyond the Black River,&quot; &quot;Red Nails,&quot; and other action-packed tales of action, adventure, and sorcery."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YxPFCwAAQBAJ",
+      "etag": "Tp8Q2RPbuCc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YxPFCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Conan the Conqueror",
+        "authors": [
+          "Robert E Howard"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2012-03-16",
+        "description": "Conan the Conqueror - The Hour of the Dragon Conan the Cimmerian: he rose from boy-thief and mercenary to become king of Aquilonia. Neither supernatural fiends nor demonic sorcery could oppose the barbarian warrior as he wielded his mighty sword and dispatched his enemies to a bloody doom on the battlefields of the legendary Hyborian Age. Collected together for the first time anywhere in the world, in chronological order, are all Robert E. Howard's definitive stories of Conan, exactly as he wrote them, as fresh, atmospheric and vibrant today as when they were first published in the pulp magazines more than sixty years ago. Conan is besieged by enemies! Xaltotun, an ancient sorcerer attacks the Kingdom of Aquilonia! The only way to defeat him is to retrieve the Heart of Ahriman! This is the only novel by Howard featuring his Conan character.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781329980037"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1329980034"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YxPFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YxPFCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YxPFCwAAQBAJ&printsec=frontcover&dq=conan&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YxPFCwAAQBAJ&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_the_Conqueror.html?hl=&id=YxPFCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Conan_the_Conqueror-sample-pdf.acsm?id=YxPFCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YxPFCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conan is besieged by enemies! Xaltotun, an ancient sorcerer attacks the Kingdom of Aquilonia! The only way to defeat him is to retrieve the Heart of Ahriman! This is the only novel by Howard featuring his Conan character."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UXpJc2ewP24C",
+      "etag": "GGJCkyeISnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UXpJc2ewP24C",
+      "volumeInfo": {
+        "title": "Conan Meets the Academy",
+        "subtitle": "Multidisciplinary Essays on the Enduring Barbarian",
+        "authors": [
+          "Jonas Prida"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2012-11-20",
+        "description": "Robert E. Howard penned a series of fantasy stories in 1932 featuring Conan, a hulking warrior from \"Cimmeria\" who roamed the mythical Hyborian Age landscape engaging in heroic adventures. More than the quirky manifestation of Depression-era magazines, Conan the Barbarian has endured as a cultural mainstay for over 70 years. This multidisciplinary collection offers the first scholarly investigation of Conan, from Howard's early stories, through midcentury novels and Arnold Schwarzenegger's iconic films, to the 2011 cinematic remake of Conan the Barbarian. Drawing on disciplines such as stylometry, archeology, cultural and folklore studies and literary history, the essays examine statistical analyses of the words in Conan texts, the literary genesis of Conan, later-day parodies, Conan video games, and much more. This volume reveals the hidden scholarly depth of this seemingly unsophisticated fictional character.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780786461523"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0786461527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 225,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UXpJc2ewP24C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UXpJc2ewP24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UXpJc2ewP24C&printsec=frontcover&dq=conan&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UXpJc2ewP24C&dq=conan&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conan_Meets_the_Academy.html?hl=&id=UXpJc2ewP24C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Conan_Meets_the_Academy-sample-pdf.acsm?id=UXpJc2ewP24C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UXpJc2ewP24C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume reveals the hidden scholarly depth of this seemingly unsophisticated fictional character."
+      }
+    }
+  ]
+}

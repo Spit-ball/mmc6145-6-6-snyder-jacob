@@ -1,0 +1,14 @@
+.homepage {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.faq {
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 750px) {
+  .homepage .pyramid {
+    display: none
+  }
+}

@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 10px;
+  margin-bottom: 40px;
+}
+
+header .links a {
+  margin: 0 10px;
+}

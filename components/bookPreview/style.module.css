@@ -1,0 +1,41 @@
+.preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 225px;
+  height: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px solid #666;
+  padding: 10px 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: color 200ms;
+  color: var(--text);
+  box-sizing: border-box;
+  perspective: 800px;
+}
+
+.preview p {
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+}
+
+.preview img {
+  transition: 500ms ease;
+  box-shadow: 4px 4px 8px #666;
+  transform: rotateY(10deg);
+  margin-bottom: 5px;
+}
+
+.preview:hover {
+  color: var(--primary);
+  border-color: var(--primary);
+  text-decoration: underline;
+}
+
+.preview:hover img {
+  box-shadow: 2px 2px 12px #888;
+  transform: rotateY(0deg) translateZ(20px);
+}

@@ -1,0 +1,396 @@
+[
+  {
+    "title": "Tales of the Batman: Gerry Conway Vol. 2",
+    "authors": [
+      "Gerry Conway"
+    ],
+    "publisher": "DC Comics",
+    "publishedDate": "2018-08-28",
+    "description": "From the time his first story was published in 1969, Gerry Conway became one of the most prolific and highly regarded comics writers of the era. He wrote for nearly every character being published at the time, and his original creationsÑincluding Firestorm, Steel and VixenÑchanged comics history forever. ConwayÕs work had a profound effect on the legacy of Batman, with his creations Killer Croc and Jason Todd becoming mainstays in the legend of the Dark Knight. Illustrated by artists including, Gene Colan, Don Newton, Klaus Janson and Jos Luis Garca-Lpez and featuring guest appearances by Superman, Man-Bat, and the whole Bat-Family, these classic tales showcase one of the greatest talents ever to write for the Caped Crusader! Collects Batman #337-346, #348, Detective Comics #505-513, WorldÕs Finest Comics #270.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781401281649"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1401281648"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 472,
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": true,
+      "containsImageBubbles": true,
+      "epubBubbleVersion": "c5660435c1f7d477",
+      "imageBubbleVersion": "c5660435c1f7d477"
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=DIxnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=DIxnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DIxnDwAAQBAJ&pg=PP1&dq=tales+of+the+batman&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DIxnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DIxnDwAAQBAJ",
+    "seriesInfo": {
+      "kind": "books#volume_series_info",
+      "bookDisplayNumber": "2",
+      "volumeSeries": [
+        {
+          "seriesId": "S1EcGwAAABBWSM",
+          "seriesBookType": "COLLECTED_EDITION",
+          "orderNumber": 1,
+          "issue": [
+            {
+              "issueDisplayNumber": "270"
+            },
+            {
+              "issueDisplayNumber": "337"
+            },
+            {
+              "issueDisplayNumber": "338"
+            },
+            {
+              "issueDisplayNumber": "339"
+            },
+            {
+              "issueDisplayNumber": "340"
+            },
+            {
+              "issueDisplayNumber": "341"
+            },
+            {
+              "issueDisplayNumber": "342"
+            },
+            {
+              "issueDisplayNumber": "343"
+            },
+            {
+              "issueDisplayNumber": "344"
+            },
+            {
+              "issueDisplayNumber": "345"
+            },
+            {
+              "issueDisplayNumber": "346"
+            },
+            {
+              "issueDisplayNumber": "348"
+            },
+            {
+              "issueDisplayNumber": "505"
+            },
+            {
+              "issueDisplayNumber": "506"
+            },
+            {
+              "issueDisplayNumber": "507"
+            },
+            {
+              "issueDisplayNumber": "508"
+            },
+            {
+              "issueDisplayNumber": "509"
+            },
+            {
+              "issueDisplayNumber": "510"
+            },
+            {
+              "issueDisplayNumber": "511"
+            },
+            {
+              "issueDisplayNumber": "512"
+            },
+            {
+              "issueDisplayNumber": "513"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "DIxnDwAAQBAJ",
+    "googleId": "DIxnDwAAQBAJ",
+    "thumbnail": "http://books.google.com/books/content?id=DIxnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Tales of the Batman: Len Wein",
+    "authors": [
+      "Len Wein"
+    ],
+    "publisher": "DC",
+    "publishedDate": "2014-12-30",
+    "description": "These tales from the 1970s are written by Len Wein, co-creator of Swamp Thing and Wolverine and writer of BEFORE WATCHMEN: OZYMANDIAS. In this new hardcover, Batman battles the villainy of The Joker, The Riddler, Catwoman, Mr. Freeze, Ra's al Ghul and many others. Collects Detective Comics #408, #444-448, #466, #478-479, #500, #514, Batman #307-310, #312-319, #321-324, #326-327, World's Finest Comics #207, DC Retroactive Batman - The 70s, Untold Legends of the Batman #1-3, Batman Black and White #5.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781401257262"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1401257267"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": true,
+      "containsImageBubbles": true,
+      "epubBubbleVersion": "6f9bd9c0abe78487",
+      "imageBubbleVersion": "6f9bd9c0abe78487"
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=-xhiBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=-xhiBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-xhiBQAAQBAJ&pg=PP1&dq=tales+of+the+batman&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-xhiBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-xhiBQAAQBAJ",
+    "id": "-xhiBQAAQBAJ",
+    "googleId": "-xhiBQAAQBAJ",
+    "thumbnail": "http://books.google.com/books/content?id=-xhiBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Tales of the Batman",
+    "subtitle": "Archie Goodwin",
+    "authors": [
+      "Archie Goodwin"
+    ],
+    "publisher": "Dc Comics",
+    "publishedDate": "2013",
+    "description": "Collects comics by one of the most legendary writers in the history of the Dark Knight, featuring stories with the \"caped crusader\" battling such enemies as Manhunter, Two-Face, and Talia Al Ghul.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1401238297"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781401238292"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 472,
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "comicsContent": true,
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=2Yl7MAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=2Yl7MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2Yl7MAEACAAJ&dq=tales+of+the+batman&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2Yl7MAEACAAJ&dq=tales+of+the+batman&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tales_of_the_Batman.html?hl=&id=2Yl7MAEACAAJ",
+    "id": "2Yl7MAEACAAJ",
+    "googleId": "2Yl7MAEACAAJ",
+    "thumbnail": "http://books.google.com/books/content?id=2Yl7MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "title": "Conan The Barbarian Vol. 1",
+    "subtitle": "The Life And Death Of Conan Book One",
+    "authors": [
+      "Jason Aaron"
+    ],
+    "publisher": "Marvel Entertainment",
+    "publishedDate": "2019-07-03",
+    "description": "Collects Conan the Barbarian (2019) #1-6. The greatest sword-and-sorcery hero of all returns to Marvel! From an age undreamed…hither came Conan the Cimmerian, black-haired, sullen-eyed, sword in hand, a thief, a reaver, a slayer, with gigantic melancholies and gigantic mirth, to tread the jeweled thrones of the Earth under his sandaled feet. Conan’s travels have brought him to the far reaches of the unknown, from his birthplace in Cimmeria to the kingdom of Aquilonia and all in between. But as his fighting prowess lets him carve his way through life, so too does it attract the forces of death! And few are more deadly than the Crimson Witch. Robert E. Howard’s legendary barbarian stars in an all-new ages-spanning saga as the destiny of Conan — and King Conan — are forever changed!",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781302514983"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1302514989"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=RP2dDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=RP2dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=RP2dDwAAQBAJ&printsec=frontcover&dq=conan&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RP2dDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RP2dDwAAQBAJ",
+    "seriesInfo": {
+      "kind": "books#volume_series_info",
+      "shortSeriesBookTitle": "Conan The Barbarian Vol. 1",
+      "bookDisplayNumber": "1",
+      "volumeSeries": [
+        {
+          "seriesId": "eDwqGwAAABBTJM",
+          "seriesBookType": "COLLECTED_EDITION",
+          "orderNumber": 1,
+          "issue": [
+            {
+              "issueDisplayNumber": "1"
+            },
+            {
+              "issueDisplayNumber": "2"
+            },
+            {
+              "issueOrderNumber": 1,
+              "issueDisplayNumber": "3"
+            },
+            {
+              "issueOrderNumber": 2,
+              "issueDisplayNumber": "4"
+            },
+            {
+              "issueOrderNumber": 3,
+              "issueDisplayNumber": "5"
+            },
+            {
+              "issueDisplayNumber": "6"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "RP2dDwAAQBAJ",
+    "googleId": "RP2dDwAAQBAJ",
+    "thumbnail": "http://books.google.com/books/content?id=RP2dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Conan and the Spider God",
+    "authors": [
+      "L. Sprague de Camp"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2003-06-16",
+    "description": "Conan is back, and at the top of his form! SFWA Grand Master L. Sprague de Camp was revered in the genre of fantasy for both his fiction and nonfiction. Booklist praised his novel The Honorable Barbarian, saying: \"The action is brisk, and the worlds and characters are described with de Camp's deft, light touch . . . thoroughly agreeable entertainment,\" while Kirkus Reviews said of The Pixilated Peeress \"the unassuming style and verve of the telling keep the pages turning. Pure prose junk-food.\" But more important, L. Sprague de Camp wrote Dark Valley Destiny, the definitive biography of Conan's creator, Robert E. Howard, leaving little wonder as to why Conan and the Spider God is considered one of the finest novels in the canon of Conan. Son of a blacksmith, a former slave and thief, Conan the Cimmerian has risen to the rank of Captain of the Royal Guard. But as usual, trouble is his bedfellow. Forced to kill while defending himself, Conan must flee the vengeance of the High Priest of Erlik. Foraging through field and forest, meeting friend and foe, Conan cuts a bloody swath through assassins and bounty hunters all the way to the sinister temple of Zath, where he encounters the huge and hideous Spider God. Facing certain death, Conan becomes both the hunter . . . and the hunted. Conan and the Spider God is a thrilling adventure of the mighty barbarian, from one of the genre's most revered authors. At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781429972727"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1429972726"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.7.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=lauSPr5QnP4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=lauSPr5QnP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lauSPr5QnP4C&pg=PT26&dq=conan&hl=&cd=14&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lauSPr5QnP4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lauSPr5QnP4C",
+    "id": "lauSPr5QnP4C",
+    "googleId": "lauSPr5QnP4C",
+    "thumbnail": "http://books.google.com/books/content?id=lauSPr5QnP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "title": "Crisis On Infinite Earths 30th Anniversary Deluxe Edition",
+    "authors": [
+      "Marv Wolfman"
+    ],
+    "publisher": "DC Comics",
+    "publishedDate": "2015-10-13",
+    "description": "In 1985, DC Comics dramatically altered comics' original universe with CRISIS ON INFINITE EARTHS, a 12-issue series that rocked the comics community, tragically dooming some of DC's most beloved characters and drastically altering others. An unforgettable and defining event in comics history, CRISIS was arguably the first companywide crossover to make good on its promise of lasting change. Written by Marv Wolfman and pencilled by George Pérez, with inks by Dick Giordano, Jerry Ordway and Mike DeCarlo, CRISIS ON INFINITE EARTHS finds the alternate worlds that once were a hallmark of the DC Universe under siege by a mysterious force powerful enough to wipe out the lives of billions. This Deluxe edition will feature as yet to be determined supplemental material.In 1985, DC Comics dramatically altered comics' original universe with CRISIS ON INFINITE EARTHS, a 12-issue series that rocked the comics community, tragically dooming some of DC's most beloved characters and drastically altering others. An unforgettable and defining event in comics history, CRISIS was arguably the first companywide crossover to make good on its promise of lasting change. Written by Marv Wolfman and pencilled by George Pérez, with inks by Dick Giordano, Jerry Ordway and Mike DeCarlo, CRISIS ON INFINITE EARTHS finds the alternate worlds that once were a hallmark of the DC Universe under siege by a mysterious force powerful enough to wipe out the lives of billions. This Deluxe edition will feature as yet to be determined supplemental material.In 1985, DC Comics dramatically altered comics' original universe with CRISIS ON INFINITE EARTHS, a 12-issue series that rocked the comics community, tragically dooming some of DC's most beloved characters and drastically altering others. An unforgettable and defining event in comics history, CRISIS was arguably the first companywide crossover to make good on its promise of lasting change. Written by Marv Wolfman and pencilled by George Pérez, with inks by Dick Giordano, Jerry Ordway and Mike DeCarlo, CRISIS ON INFINITE EARTHS finds the alternate worlds that once were a hallmark of the DC Universe under siege by a mysterious force powerful enough to wipe out the lives of billions. This Deluxe edition will feature as yet to be determined supplemental material.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781401258412"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1401258417"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 379,
+    "printType": "BOOK",
+    "categories": [
+      "Comics & Graphic Novels"
+    ],
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": true,
+      "containsImageBubbles": true,
+      "epubBubbleVersion": "7e37c0fe41be40f5",
+      "imageBubbleVersion": "7e37c0fe41be40f5"
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=zfqMCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=zfqMCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zfqMCgAAQBAJ&printsec=frontcover&dq=Crisis+on+Infinite+Earths&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zfqMCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zfqMCgAAQBAJ",
+    "id": "zfqMCgAAQBAJ",
+    "googleId": "zfqMCgAAQBAJ",
+    "thumbnail": "http://books.google.com/books/content?id=zfqMCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  }
+]
